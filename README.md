@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=nameo91&show_icons=true&theme=dracula" height="170em" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameo91&layout=compact&theme=dracula" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nameo91&show_icons=true&theme=dracula" height="170em" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameo91&layout=compact&theme=dracula" height="170em"/>
 
 <!---
 Nameo91/Nameo91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
